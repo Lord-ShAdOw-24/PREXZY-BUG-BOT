@@ -2,22 +2,21 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
-global.ownername = "Precious Ayomide👑"
+global.ownernomer = "237682365995"
+global.ownername = "꧁•࿇_ ✞*_ShAdOw_* ✞_࿇•꧂ "
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
-global.location = "Nigeria, Osun, Osogbo"
+global.location = "Cameroon,Centre, Yaoundé "
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
+global.ownernumber = '237682365995'  //creator number
+global.ownername = '꧁•࿇_ ✞*_ShAdOw_* ✞_࿇•꧂' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
-//sticker details
-global.packname = 'Sticker By'
+global.packname = 'Sticker By ꧁•࿇_ ✞*_ShAdOw_* ✞_࿇•꧂ '
 global.author = 'PREXZY👑\n\nContact: +263717750825'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🫦'
 global.wm = "PREXZYVILLA."
 
 //theme link
@@ -29,7 +28,7 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
